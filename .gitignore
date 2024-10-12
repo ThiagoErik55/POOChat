@@ -1,0 +1,14 @@
+# Build Folders
+/bin
+/obj
+
+# Visual Studio Folders
+/.vs
+
+# User-Specific Files
+*.user
+*.suo
+*.vs
+
+# Database Files
+*.db
