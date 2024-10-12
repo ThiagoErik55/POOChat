@@ -12,3 +12,5 @@
 
 # Database Files
 *.db
+
+.fake
