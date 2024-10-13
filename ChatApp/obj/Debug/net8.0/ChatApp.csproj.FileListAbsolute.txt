@@ -119,3 +119,4 @@ C:\Users\Thiag\OneDrive\Área de Trabalho\Projeto POOChat\ChatApp\bin\Debug\net8
 C:\Users\Thiag\OneDrive\Área de Trabalho\Projeto POOChat\ChatApp\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\Thiag\OneDrive\Área de Trabalho\Projeto POOChat\ChatApp\obj\Debug\net8.0\ChatApp.csproj.AssemblyReference.cache
 C:\Users\Thiag\OneDrive\Área de Trabalho\Projeto POOChat\ChatApp\obj\Debug\net8.0\ChatApp.csproj.Up2Date
+C:\Users\Thiag\OneDrive\Área de Trabalho\Projeto POOChat\ChatApp\obj\Debug\net8.0\ChatApp.sourcelink.json

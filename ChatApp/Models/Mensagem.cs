@@ -5,7 +5,7 @@ namespace ChatApp.Models
     public class Mensagem
     {
         public int ID { get; set; }
-        public string Conteudo { get; set;}
+        public string Conteudo { get; set;} = string.Empty;
         public DateTime DataEnvio { get; set; }
         public int RemetenteID { get; set; }
         public int DestinatarioID { get; set; }
